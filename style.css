@@ -1,0 +1,10 @@
+body{
+    color: black;
+    background: lightblue;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 450px;
+    height: 300px;
+}
